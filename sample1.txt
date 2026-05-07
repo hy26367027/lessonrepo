@@ -13,15 +13,17 @@
 			KABUKIZA
 			GINZA
 		(ACCOMODATION) XXXX
----------------------------------------------------------------------------------------------
-14 Oct	xx:xx TOKYO Shinkansen
+8    apr  nagoya ----------
+--------------------------------------------------------------------------------------------
+4 Oct	xx:xx TOKYO Shinkansen
 		xx:xx HIROSHIMA
 		(ACCOMODATION) HIROSHIMA (TBD)
 ---------------------------------------------------------------------------------------------
 15 Oct	xx:xx HIROSHIMA Shinkansen
-		xx:xx KYOTO
+		uuuuuu     mamamamam
 			KYOTO
 		(ACCOMODATION) KYOTO (TBD)
+21   may   xx:xx   home    		
 ---------------------------------------------------------------------------------------------
 16 Oct	xx:xx KYOTO Shinkansen
 		xx:xx TOKYO
