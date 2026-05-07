@@ -2,17 +2,20 @@
 		07:55P HANEDA
 		(ACCOMODATION) XXXX
 ---------------------------------------------------------------------------------------------
-12 Oct	Tokyo Tour	(detail schedule is not fixed)
+21  Oct	Tokyo Tour	(detail schedule is not fixed)
 			Sumo-beya
 			SKYTREE
 			ASAKUSA
 		(ACCOMODATION) XXXX
 ---------------------------------------------------------------------------------------------
-13 Oct Tokyo Tour	(detail schedule is not fixed)
-			TSUKIJI
-			KABUKIZA
+11  Oct Tokyo Tour	(detail schedule is not fixed)
+	++++++++++++++++++----------------
+
+						KABUKIZA
 			GINZA
 		(ACCOMODATION) XXXX
+ buuuuuuuuuuumaaaaaaaaaaaaaaassss
+
 8    apr  nagoya ----------
 --------------------------------------------------------------------------------------------
 4 Oct	xx:xx TOKYO Shinkansen
@@ -23,9 +26,10 @@
 		uuuuuu     mamamamam
 			KYOTO
 		(ACCOMODATION) KYOTO (TBD)
-21   may   xx:xx   home    		
+21   may   xx:xx   home    outside		
 ---------------------------------------------------------------------------------------------
-16 Oct	xx:xx KYOTO Shinkansen
-		xx:xx TOKYO
-		 Kyoto Tour
+16 Oct   5:00 TO Shinkansen
+	     12:50 TOKYO
+		 1:00  Kyoto Tour
 		(ACCOMODATION) XXXX
+
